@@ -1,0 +1,28 @@
+{
+  "name": "save-tweet-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "data-uri-to-buffer": "^4.0.0",
+    "express": "^4.17.2",
+    "fetch-blob": "^3.1.3",
+    "formdata-polyfill": "^4.0.10",
+    "needle": "^3.0.0",
+    "node-fetch": "^3.1.1",
+    "nodemon": "^2.0.15",
+    "sax": "^1.2.4",
+    "web-streams-polyfill": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "tweet",
+    "automation"
+  ],
+  "author": "Swarup",
+  "license": "ISC"
+}
